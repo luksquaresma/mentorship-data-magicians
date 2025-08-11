@@ -1,12 +1,12 @@
 
 
-<h1 align="center"> Data Magicians Mentorship Project </h1>
+<h1 align="center"> Saúde Mental no Puerpério — Uma Análise Exploratória de Sintomas em Puérperas </h1>
 
-<!-- Saúde Mental no Puerpério — Uma Análise Exploratória de Sintomas em Puérperas -->
+
 
 1. CONTEXTO
 
-A depressão pós‑parto (DPP) é uma condição que afeta cerca de 15 a 20% das mulheres no primeiro ano após o nascimento do bebê. Apesar de ser amplamente estudada, ainda há lacunas na identificação precoce e no entendimento dos fatores de risco que levam uma puérpera a desenvolver sintomas depressivos. O dataset utilizado neste projeto foi extraído do Kaggle e contém respostas de 1503 mulheres que relataram diferentes sentimentos no pós parto. As variáveis são autorrelatos de sintomas (insônia, irritabilidade, ansiedade, problemas de alimentação, dificuldades de afeto com o bebê e ideação suicida) e informações demográficas (idade). Esse dados nao possuem diagnóstico clínico de depressao pós parto, sendo o foco do trabalho uma análise descritiva para entender sintomas e padroes, bem como possíveis grupos de risco. 
+A depressão pós‑parto (DPP) é uma condição que afeta cerca de 15 a 20% das mulheres no primeiro ano após o nascimento do bebê. Apesar de ser amplamente estudada, ainda há lacunas na identificação precoce e no entendimento dos fatores de risco que levam uma puérpera a desenvolver sintomas depressivos. O dataset utilizado neste projeto foi extraído do Kaggle e contém respostas de 1503 mulheres que relataram diferentes sentimentos no pós parto. As variáveis são autorrelatos de sintomas (insônia, irritabilidade, ansiedade, problemas de alimentação, dificuldades de afeto com o bebê e ideação suicida) e informações demográficas (idade). Esse dados nao possuem diagnóstico clínico de depressao pós parto, sendo o foco do trabalho uma análise descritiva para entender sintomas e padroes, bem como possíveis grupos de risco para desenvolver DPP. 
 
 2. OBJETIVO
 
